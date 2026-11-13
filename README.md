@@ -1,6 +1,6 @@
 # Edge 站点历史清理器
 
-> [!waring]
+> [!warning]
 > vibe警告
 
 按“名单”删除 Microsoft Edge 浏览记录里 **指定站点** 的痕迹，其它站点的记录保持原样。
