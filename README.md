@@ -1,0 +1,2 @@
+# Edge_history_cleaner
+按网站域名和标题清理edge的历史
